@@ -1,0 +1,2 @@
+var userName;
+var userEmail;
