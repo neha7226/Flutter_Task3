@@ -3,13 +3,8 @@
 # Flutter Task 3.
 # Screen Shots.
 ![flutOut](https://user-images.githubusercontent.com/72300222/123102570-d4f27b80-d452-11eb-97c4-bc34953ecc9d.png)
-
 # Video Demo
-https://user-images.githubusercontent.com/72300222/123100790-0c602880-d451-11eb-9d4b-3da5427d6ea4.mp4
-
-
-
-
+https://user-images.githubusercontent.com/72300222/123105322-564b0d80-d455-11eb-993e-3c1ad793ec32.mp4
 
 ## Getting Started
 
