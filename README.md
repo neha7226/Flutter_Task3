@@ -1,6 +1,11 @@
 # flutter_minor_project
 
-A new Flutter project.
+Flutter Task 3.
+
+![flutOut](https://user-images.githubusercontent.com/72300222/123100456-c4d99c80-d450-11eb-8b6f-cb05b16df9ea.png)
+
+
+
 
 ## Getting Started
 
